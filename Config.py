@@ -1,0 +1,3 @@
+
+
+SpeechRecognitionLanguage = "ru-RU";
