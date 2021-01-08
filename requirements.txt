@@ -1,0 +1,4 @@
+gensim
+numpy
+pymorphy2
+pymystem3
