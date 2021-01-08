@@ -3,5 +3,7 @@ numpy
 pymorphy2
 pymystem3
 
+pipwin
+
 SpeechRecognition
 pyaudio

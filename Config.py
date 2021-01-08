@@ -1,3 +1,3 @@
 
 
-SpeechRecognitionLanguage = "ru-RU";
+SpeechRecognitionLanguage = "ru-RU"
