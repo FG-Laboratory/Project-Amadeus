@@ -5,5 +5,6 @@ pymystem3
 
 pipwin
 
-SpeechRecognition
+pocketsphinx
 pyaudio
+SpeechRecognition
