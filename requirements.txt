@@ -5,6 +5,7 @@ pymystem3
 
 pipwin
 
-pocketsphinx
 pyaudio
 SpeechRecognition
+
+importlib
