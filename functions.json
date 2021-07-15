@@ -1,0 +1,10 @@
+{
+  "1":{
+    "module":"Shutdown",
+    "function":"Shutdown"
+  },
+  "2":{
+    "module":"Shutdown",
+    "function":"AbortShutdown"
+  }
+}
